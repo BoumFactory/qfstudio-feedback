@@ -1,0 +1,13 @@
+{
+  "id": "0b7ca768251d4d59b41e718498276669",
+  "type": "qf_feedback",
+  "createdAt": "2026-06-30T18:24:53.162514200+00:00",
+  "appVersion": "0.1.3",
+  "machineHash": "b9b5f12c03d2",
+  "context": {
+    "niveau": "5e",
+    "qfPath": null,
+    "theme": "Test"
+  },
+  "message": "diag-claude-test"
+}
