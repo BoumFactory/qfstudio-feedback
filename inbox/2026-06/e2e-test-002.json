@@ -1,9 +1,0 @@
-{
-  "id": "e2e-test-002",
-  "type": "bug",
-  "createdAt": "2026-06-30T20:00:00Z",
-  "appVersion": "0.1.2",
-  "machineHash": "diag00000000",
-  "context": {},
-  "message": "Diag route depuis Claude (a supprimer)."
-}
