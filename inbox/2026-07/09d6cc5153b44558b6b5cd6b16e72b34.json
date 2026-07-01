@@ -1,0 +1,22 @@
+{
+  "id": "09d6cc5153b44558b6b5cd6b16e72b34",
+  "type": "qf_feedback",
+  "createdAt": "2026-07-01T09:03:43.968791500+00:00",
+  "appVersion": "0.1.3",
+  "machineHash": "b9b5f12c03d2",
+  "context": {
+    "category": "bug",
+    "mode": "bug",
+    "source": "templates",
+    "template": {
+      "displayName": "Calculer Moyenne",
+      "name": "calculer_moyenne.sty",
+      "path": "D:\\Applications\\QFStudio\\.qfgen\\inputs\\3eme\\statistiques\\calculer_moyenne.sty",
+      "relativePath": "3eme\\statistiques\\calculer_moyenne.sty",
+      "theme": "Calculer une moyenne.",
+      "variableCount": 6,
+      "versionCount": 30
+    }
+  },
+  "message": "TEST pilote (ignorer) - remarque QF via TemplateRemarkDialog routee vers Canal C."
+}
