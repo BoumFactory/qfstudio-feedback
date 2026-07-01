@@ -1,0 +1,13 @@
+{
+  "id": "a5a70d9cbf0943588dd1b9c17d8e5fd7",
+  "type": "bug",
+  "createdAt": "2026-07-01T10:00:47.138044400+00:00",
+  "appVersion": "0.1.4",
+  "machineHash": "d09b757e6c76",
+  "context": {
+    "module": "templates",
+    "platform": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0",
+    "url": "http://tauri.localhost/"
+  },
+  "message": "on a un probleme dans les compilations batch de templates, ça déclenche un timeout qui est visiblement indépendant du nombre de templates à compiler..."
+}
